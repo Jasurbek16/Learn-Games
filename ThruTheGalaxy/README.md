@@ -1,13 +1,5 @@
-# Learn-Games
-
-This repository includes all of the codes used while learning programming of games.
-
-# Games
-
-## ●• Thru the Galaxy •● 🚀🛸<br>
-
-### Description
-
+# ●• Thru the Galaxy •● 🚀🛸<br>
+## Description
 <p>In this project we would be a pilot of a rocket that aims to protect themseleves from an attack of aliens</p>
 <h2> Keyboard </h2>
 <ul>
